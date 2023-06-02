@@ -4,8 +4,6 @@ out/
 !**/src/test/**/out/
 .gradle
 gradle
-gradlew
-gradlew.bat
 
 ### Eclipse ###
 .apt_generated
