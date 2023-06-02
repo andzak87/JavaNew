@@ -8,6 +8,7 @@ public class TestClassTest {
     void successfullSearchTest(){
         open("https://www.google.com/");
         open("https://www.google.com/");
+        open("https://www.google.com/");
 
     }
 }
