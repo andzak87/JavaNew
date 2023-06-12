@@ -25,6 +25,7 @@ public class PageObjectTests {
         new LoginPage().inputEmail("2023-06-07.12-43-10zl@mailto.plus")
                        .inputCorrectPassword("2023-06-07.12-43-10zl@mailto.plus");
 
+
     }
 
 
